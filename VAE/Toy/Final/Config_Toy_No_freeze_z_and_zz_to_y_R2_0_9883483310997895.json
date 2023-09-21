@@ -1,0 +1,1 @@
+{"config": {"x_dim": 5, "z_dim": 3, "zz_dim": 1, "encoder_z_layers": [64, 64, 64], "encoder_zz_layers": [10, 10], "decoder_layers": [64, 64, 64, 5], "fc_z_to_y_layers": [32, 32, 32, 1]}, "beta": {"b1": 10000, "b2": 1, "b3": 1, "b4": 10000, "b5": 1}, "lr": 0.001, "batch_size": 1024, "num_epochs": 500}
